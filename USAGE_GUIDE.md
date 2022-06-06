@@ -6,40 +6,33 @@
 
 
 
-
-## Getting Started
-delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- git
+- npm
 
 ### Setup
+- clone this temp with `git clone https://github.com/yosefHesham/react-temp`
 
 ### Install
+- run `npm init -y`
+- run `npm install` to install dev dependencies
 
 ### Usage
+- run `npm start` to run server.
+- run `npm run build` to prepare for deployment
 
-### Run tests
-
-### Deployment
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Yousef Hesham**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@yosefHesham](https://github.com/yosefHesham)
+- Twitter: [@yousef](https://twitter.com/Yousef45653478)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yousef-hesham-b132ba179/)
 
 ## 🤝 Contributing
 
