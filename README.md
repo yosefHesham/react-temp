@@ -19,7 +19,6 @@ To get a local copy up and running follow these simple example steps.
 - clone this temp with `git clone https://github.com/yosefHesham/react-temp`
 
 ### Install
-- run `npm init -y`
 - run `npm install` to install dev dependencies
 
 ### Usage
